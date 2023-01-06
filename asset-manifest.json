@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Summarizer/static/css/main.e6c13ad2.css",
+    "main.js": "/Summarizer/static/js/main.7b0256e5.js",
+    "index.html": "/Summarizer/index.html",
+    "main.e6c13ad2.css.map": "/Summarizer/static/css/main.e6c13ad2.css.map",
+    "main.7b0256e5.js.map": "/Summarizer/static/js/main.7b0256e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7b0256e5.js"
+  ]
+}
