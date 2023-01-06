@@ -1,3 +1,4 @@
+Link = https://muhammad-ibrahim-noor.github.io/Analyzer/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
